@@ -15,7 +15,7 @@
     background-color: #D1C4E9;
     margin: 0px;
     padding: 20px 0px 20px 0px;
-    background-color: #685174;
+    background-color: #ce9fe7;
 }
 
 .jumbotron{
@@ -29,4 +29,13 @@
     font-size: 80%;
     margin:  0px;
     color: #0f0f0f;
+}
+
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0px;
+}
+
+.navbar-dark{
+    background-color: #512DA8;
 }
