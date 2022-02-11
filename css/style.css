@@ -39,3 +39,23 @@ body {
 .navbar-dark{
     background-color: #512DA8;
 }
+
+.btn-secondary {
+    color: #fff;
+    background-color: #dbe10e;
+    border-color: #6c757d;
+    margin-top: 60px;
+  }
+
+#tr{
+    background-color: #dbe10e;
+}
+
+.table .thead-dark th {
+    color: #fff;
+    background-color: #ff0;
+    border-color: #32383e;
+
+.table-responsive{
+    background-color: #00FF7F;
+}
